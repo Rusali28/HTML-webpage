@@ -22,9 +22,9 @@ The webpage has a visual illustration of the concepts.
 
 
 ## Extra implementations - Additionaly, I have added few more implementations:
-+ Adding CSS to HTML - This can be done in 3 ways:
-                      + Inline Styling (using style attribute)
-                      + Internal Styling - by including the <style> tag in the head of the HTML file
-                      + External Styling - by creating a separate stylesheet and linking it to the HTML file using the <link> attribute in the head of the document
+### 1. Adding CSS to HTML - This can be done in 3 ways:
++ Inline Styling (using style attribute)
++ Internal Styling - by including the <style> tag in the head of the HTML file
++ External Styling - by creating a separate stylesheet and linking it to the HTML file using the <link> attribute in the head of the document
 + Adding Javascript to HTML
   
