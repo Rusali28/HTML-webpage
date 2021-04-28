@@ -21,7 +21,7 @@ The webpage has a visual illustration of the concepts.
 + Classes
 
 
-## Extra implementations - Additionaly, I have added few more implementations:
+## Extra implementations - Additionally, I have added few more implementations:
 ### 1. Adding CSS to HTML - This can be done in 3 ways:
 + Inline Styling (using style attribute)
 + Internal Styling - by including the <style> tag in the head of the HTML file
@@ -34,9 +34,12 @@ All three methods have been implemented in the file.
 + Inline (using script attribute)
 + Externally create a .js file and and link it to the head or the body 
   
-  All three methods have been implemented in the file.
+All three methods have been implemented in the file.
   
-  
+ 
+## I have also created a fruit selling website, for an intuitive understanding of the concepts. 
+ 
+ 
 ### Guidelines to use the repo:
 - Cloning the Repository: 
 
