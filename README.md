@@ -48,6 +48,7 @@ All three methods have been implemented in the file.
         
 - Running the html file:
         
-        + Open index.html on your IDE
-        + right click to select View-In-File-Explorer, open the chrome file from your file explorer to view the webpage
+        * Open index.html on your IDE
+        * right click to select View-In-File-Explorer
+        * open the chrome file from your file explorer to view the webpage
         (I have used VS Code as my IDE)
