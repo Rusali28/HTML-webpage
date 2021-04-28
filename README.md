@@ -26,5 +26,9 @@ The webpage has a visual illustration of the concepts.
 + Inline Styling (using style attribute)
 + Internal Styling - by including the <style> tag in the head of the HTML file
 + External Styling - by creating a separate stylesheet and linking it to the HTML file using the <link> attribute in the head of the document
-+ Adding Javascript to HTML
+
+### 2. Adding Javascript to HTML - This can be done in 3 ways:
++ Using the <script> tag 
++ Inline (using script attribute)
++ Externally create a .js file and and link it to the head or the body 
   
