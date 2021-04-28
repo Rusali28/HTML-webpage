@@ -35,3 +35,18 @@ All three methods have been implemented in the file.
 + Externally create a .js file and and link it to the head or the body 
   
   All three methods have been implemented in the file.
+  
+  
+### Guidelines to use the repo:
+- Cloning the Repository: 
+
+        git clone 
+        
+- Entering the directory: 
+
+        cd HTML-webpage
+        
+- Running the html file:
+        
+        Open index.html on your IDE, right click to select View-In-File-Explorer, open the chrome file from your file explorer to view the webpage
+        (I have used VS Code as my IDE)
